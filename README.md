@@ -1,3 +1,5 @@
+Project made by me for my AI class during the 3rd course in university. 
+
 # Human Activity Recognition using Machine Learning
 ## Project overview
 
